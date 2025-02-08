@@ -1,0 +1,18 @@
+
+{
+  "Data":
+  [
+  { "year": 1950, "cropName": "Wheat", "production": 500 },
+  { "year": 1950, "cropName": "Rice", "production": 500 },
+  { "year": 1950, "cropName": "Maize", "production": 500 },
+  { "year": 1950, "cropName": "Barley", "production": 500 },
+  { "year": 1951, "cropName": "Wheat", "production": 700 },
+  { "year": 1951, "cropName": "Rice", "production": 0 },
+  { "year": 1951, "cropName": "Maize", "production": 800 },
+  { "year": 1951, "cropName": "Barley", "production": 900 },
+  { "year": 1952, "cropName": "Wheat", "production": 300 },
+  { "year": 1952, "cropName": "Rice", "production": 500 },
+  { "year": 1952, "cropName": "Maize", "production": 0 },
+  { "year": 1952, "cropName": "Barley", "production": 650 }
+ ]
+}
